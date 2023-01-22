@@ -1,4 +1,4 @@
-![Screenshot](screenshot.png)
+<img align="center" src="screenshot.png" alt="Omar.Elati" height="140" width="100%" />
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">student software engineering</h3>
 
