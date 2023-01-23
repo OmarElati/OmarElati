@@ -25,8 +25,8 @@
 <div style="display: flex;">
 
 <div style="width: fit-content; height: fit-content;"><img src="https://github-readme-stats.vercel.app/api?username=omarelati&show_icons=true&locale=en" alt="omarelati" /></div>
-</div>
   
 <div style="width: fit-content;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarelati&show_icons=true&locale=en&layout=compact" alt="omarelati" style="margin-top: 12px;"/></div>
 
+</div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarelati&" alt="omarelati" /></p>
