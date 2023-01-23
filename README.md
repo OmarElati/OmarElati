@@ -1,4 +1,4 @@
-<img align="center" src="screenshot.png" alt="Omar.Elati" height="20%" width="100%" />
+<img align="center" src="screenshot.png" alt="Omar.Elati" height=200 width="100%" />
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">student software engineering</h3>
 
