@@ -1,4 +1,4 @@
-<img align="center" src="AdobeStock_278374738_Preview.ai" alt="Omar.Elati" height=100% width="100%" />
+<img align="center" src="a.jpg" alt="Omar.Elati" height=250 width="100%" />
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">student software engineering</h3>
 
