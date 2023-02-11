@@ -1,6 +1,8 @@
 <img align="center" src="a.jpg" alt="Omar.Elati" height=250 width="100%" />
 <h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">student software engineering</h3>
+<h3 align="center">A software engineering student from Tunisia
+
+OmarElati </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarelati&label=Profile%20views&color=0e75b6&style=flat" alt="omarelati" /> </p>
 
