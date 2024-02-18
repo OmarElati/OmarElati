@@ -59,15 +59,8 @@
   </a> 
 </p>
 
-<span style="
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-  ">
-  <div>
-    <img align="centre" width="50%" src="https://github-readme-stats.vercel.app/api?username=OmarElati&show_icons=true&locale=en" alt="OmarElati" />
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarElati&show_icons=true&locale=en&layout=compact" alt="OmarElati" />
-  </div>
+<span>
+  <img align="centre" width="400" src="https://github-readme-stats.vercel.app/api?username=OmarElati&show_icons=true&locale=en" alt="OmarElati" />
+  <img width="335" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarElati&show_icons=true&locale=en&layout=compact" alt="OmarElati" />
   <img align="centre" height="200" width="735" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarElati&" alt="OmarElati" />
 </span>
