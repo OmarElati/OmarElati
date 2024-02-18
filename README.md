@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarelati&label=Profile%20views&color=0e75b6&style=flat" alt="omarelati" /> </p>
 
-<p align="center" height="80%" width="80%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarelati" alt="omarelati" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarelati" alt="omarelati" /></a> </p>
 
 - 🔭 I’m currently Studie on **Holberton School**
 
