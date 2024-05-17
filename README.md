@@ -1,6 +1,6 @@
 <img align="center" src="a.jpg" alt="Omar.Elati" height=250 width="100%" />
-<h1 align="center">Hey there, I'm Omar</h1>
-<h3 align="center">A software engineering from Tunisia</h3>
+<h1 align="center">Hey there, I'm Omar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<p align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&random=false&width=535&lines=A+Software+engineering;Fullstack+Devolpper;Freelancer;" alt="Typing SVG" /></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarelati&label=Profile%20views&color=0e75b6&style=flat" alt="omarelati" /> </p>
 
@@ -30,9 +30,9 @@
 <details open> 
   <summary><h2>📊 GitHub Stats:</h2></summary>
 
-<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=OmarElati&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="OmarElati" /></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarElati&theme=merko&hide_border=false&show_icons=true&locale=en&layout=compact" alt="OmarElati" /></p>
-<p align="center" ><img src="https://streak-stats.demolab.com?user=OmarElati&theme=dark&border_radius=7.8" alt="OmarElati" /></p>
+  <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=OmarElati&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="OmarElati" /></p>
+  <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarElati&theme=merko&hide_border=false&show_icons=true&locale=en&layout=compact" alt="OmarElati" /></p>
+  <p align="center" ><img src="https://streak-stats.demolab.com?user=OmarElati&theme=dark&border_radius=7.8" alt="OmarElati" /></p>
 </details>
 
 [website]: https://omarelati.github.io/3d-react-portfolio/
