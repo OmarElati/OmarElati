@@ -30,10 +30,7 @@
 <details open> 
   <summary><h2>📊 GitHub Stats:</h2></summary>
 
-  <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=OmarElati&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="OmarElati" /></p>
+  <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=OmarElati&theme=city_lights&show_icons=true" alt="OmarElati" /></p>
   <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarElati&theme=merko&hide_border=false&show_icons=true&locale=en&layout=compact" alt="OmarElati" /></p>
   <p align="center" ><img src="https://streak-stats.demolab.com?user=OmarElati&theme=dark&border_radius=7.8" alt="OmarElati" /></p>
 </details>
-
-[website]: https://omarelati.github.io/3d-react-portfolio/
-[twitter]: https://twitter.com/OmarELati
