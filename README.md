@@ -1,6 +1,6 @@
 <img align="center" src="a.jpg" alt="Omar.Elati" height=250 width="100%" />
 <h1 align="center">Hey there, I'm Omar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<p align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&random=false&width=535&lines=A+Software+engineering;Full+Stack+Developer;Freelancer;" alt="Typing SVG" /></a></p>
+<p align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&random=false&width=535&lines=Software+Engineer;Full+Stack+Developer;Freelancer;" alt="Typing SVG" /></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarelati&label=Profile%20views&color=0e75b6&style=flat" alt="omarelati" /> </p>
 
