@@ -61,7 +61,7 @@ Hello! I'm Omar Elati, an enthusiastic Full Stack Developer with a keen interest
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<details open> 
+<!-- <details open>  -->
 <!-- <summary><h2>📊 GitHub Stats:</h2></summary> -->
 
 <p align="center" >
@@ -73,4 +73,4 @@ Hello! I'm Omar Elati, an enthusiastic Full Stack Developer with a keen interest
 
 </a>
 </p>
-</details>
+<!-- </details> -->
