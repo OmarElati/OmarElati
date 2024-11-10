@@ -62,11 +62,11 @@ Hello! I'm Omar Elati, an enthusiastic Full Stack Developer with a keen interest
 ### ⚙️ &nbsp;GitHub Analytics
 
 <details open> 
-<summary><h2>📊 GitHub Stats:</h2></summary>
+<!-- <summary><h2>📊 GitHub Stats:</h2></summary> -->
 
 <p align="center" >
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/OmarElati">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarElati&theme=city_lights&hide_border=false&show_icons=true&locale=en&layout=compact" alt="OmarElati" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarElati&theme=city_lights&show_icons=true" alt="OmarElati" />
